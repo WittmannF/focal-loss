@@ -72,7 +72,6 @@ setup(
         'Topic :: Software Development :: Libraries :: Python Modules',
     ],
     install_requires=[
-        _TENSORFLOW,
     ],
     extras_require={
         # The 'dev' extra is for development, including running tests and
